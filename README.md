@@ -3,7 +3,7 @@
 <h3 align="center">A passionate cloud engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-abk&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-abk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2170=Profile%20views&color=0e75b6&style=flat" alt="abhi-abk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,13 +11,13 @@
 
 - 💬 Ask me about AWS,DevOps Solution, Linux
 
-- 📫 How to reach me sangrammane553@gmail.com
+- 📫 How to reach me pranavshinde2170@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sangram-mane-565383252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram-mane" height="30" width="40" /></a>
+<a href="https://http://www.linkedin.com/in/pranavshinde55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pranav-Shinde" height="30" width="40" /></a>
 
-<a href="https://instagram.com/sangram_mane45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangram_mane45" height="30" width="40" /></a>
+<a href="https://instagram.com/p_r_n_v_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_r_n_v_05" height="30" width="40" /></a>
 
 </p>
 
